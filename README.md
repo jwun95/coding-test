@@ -1,4 +1,4 @@
-# JavaScript 코딩 테스트 레지토리입니다
+# JavaScript 코딩 테스트 레포지토리입니다
 
 ## How to use?
 
